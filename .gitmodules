@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:Tellirrium/chat-server.git
+[submodule "client"]
+	path = client
+	url = git@github.com:Tellirrium/chat-client.git
