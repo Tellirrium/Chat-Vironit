@@ -4,3 +4,6 @@
 [submodule "client"]
 	path = client
 	url = git@github.com:Tellirrium/chat-client.git
+[submodule "newClient"]
+	path = newClient
+	url = git@github.com:Tellirrium/Chat-client.git
