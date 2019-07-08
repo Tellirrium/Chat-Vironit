@@ -7,3 +7,6 @@
 [submodule "newClient"]
 	path = newClient
 	url = git@github.com:Tellirrium/Chat-client.git
+[submodule "Client-ReactNative"]
+	path = Client-ReactNative
+	url = git@github.com:Tellirrium/Client-react-native.git
